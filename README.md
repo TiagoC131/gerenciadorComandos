@@ -31,7 +31,7 @@ Isso permite a criação de um sistema de comandos robusto e extensível, onde n
 *   `piscarLed 500 250`: Pisca o LED indefinidamente, com 500ms ligado e 250ms desligado.
 *   `piscarLed 3 500 250`: Pisca o LED 3 vezes, com 500ms ligado e 250ms desligado.
 
- **Colaboração:**
+## Colaboração:
 
 <div align="center">
   Se você gostou deste projeto e deseja contribuir para o seu desenvolvimento contínuo, você pode fazer uma doação via Pix: <strong>tiago.c1@hotmail.com</strong> <br>
