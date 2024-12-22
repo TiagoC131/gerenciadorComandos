@@ -34,7 +34,8 @@ Isso permite a criação de um sistema de comandos robusto e extensível, onde n
 ## Colaboração:
 
 <div align="center">
-  Se você gostou deste projeto e deseja contribuir para o seu desenvolvimento contínuo, você pode fazer uma doação via Pix: <strong>Código Pix: <code>tiago.c1@hotmail.com</code><br>
+  Se você gostou deste projeto e deseja contribuir para o seu desenvolvimento contínuo, você pode fazer uma doação via Pix:<br>
+  <strong>Código Pix: <code>tiago.c1@hotmail.com</code><br>
   Nome: Tiago Carvalho Pontes<br>
   Banco: Caixa Econômica Federal</strong><br>
   Sua ajuda é fundamental para o desenvolvimento contínuo deste projeto!
