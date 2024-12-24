@@ -45,4 +45,4 @@ Isso permite a criação de um sistema de comandos robusto e extensível, onde n
 
 Este projeto é licenciado sob a [Licença MIT](LICENSE). Consulte o arquivo `LICENSE` para obter mais informações.
 
-MIT License / Copyright (c) 2024 TiagoC131
+MIT License / Copyright (c) 2024 Tiago Carvalho Pontes
